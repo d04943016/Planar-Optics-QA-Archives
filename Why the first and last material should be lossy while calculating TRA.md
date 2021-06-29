@@ -1,5 +1,4 @@
-# Why the spectrum would blue shift in large viewing angle
+# Why the first and last material should be lossy while calculating TRA
 
-
-
+//TODO
 
